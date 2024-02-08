@@ -4,7 +4,7 @@ import android.content.Context;
 
 import androidx.annotation.StringRes;
 
-import com.aefyr.sai.R;
+
 
 /**
  * Errors were scraped from here - https://cs.android.com/android/platform/superproject/+/master:frameworks/base/core/java/android/content/pm/PackageManager.java;l=989;bpv=0;bpt=1
